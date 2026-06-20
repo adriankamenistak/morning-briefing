@@ -1,6 +1,6 @@
 # Morning Briefing
 
-A Python script that runs automatically every morning at 6 AM and sends a structured daily briefing to your phone via [ntfy](https://ntfy.sh).
+A Python script that runs automatically every morning at your chosen time and sends a structured daily briefing to your phone via [ntfy](https://ntfy.sh).
 
 ## What it does
 
